@@ -6,7 +6,7 @@ A lightweight Windows Batch script (`.bat`) that forcefully blocks Google Chrome
 If Windows SmartScreen or your browser flags the `.bat` file download as a false positive, you can easily create the file manually:
 
 1. Copy the code from the box below.
-2. Open **Notepad** (المفكرة) on your Windows PC.
+2. Open **Notepad** on your Windows PC.
 3. Paste the code into Notepad.
 4. Click **File** > **Save As**.
 5. Set **Save as type** to `All Files (*.*)`.
